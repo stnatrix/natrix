@@ -6,6 +6,7 @@
 - **Local Directory**: `C:\Users\stnatrix\Documents\antigravity\vps\sites\stnatrix-space`
 - **VPS Root**: `/var/www/sites/stnatrix`
 - **Web Server**: Nginx (`/etc/nginx/sites-available/stnatrix.conf` -> `/etc/nginx/sites-enabled/stnatrix.conf`)
+- **Repository**: [stnatrix/natrix](https://github.com/stnatrix/natrix)
 - **Projects Highlighted**:
   - `toolstrix`: [tools.stnatrix.space](https://tools.stnatrix.space) | [stnatrix/toolstrix](https://github.com/stnatrix/toolstrix)
   - `ahktrix`: [ahk.stnatrix.space](https://ahk.stnatrix.space) | [stnatrix/ahktrix](https://github.com/stnatrix/ahktrix)
